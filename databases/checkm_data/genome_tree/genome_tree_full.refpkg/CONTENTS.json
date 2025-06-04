@@ -1,0 +1,25 @@
+{
+    "files": {
+        "aln_fasta": "genome_tree.fasta",
+        "phylo_model": "phylo_modelEcOyPk.json",
+        "tree": "genome_tree.tre",
+        "tree_stats": "genome_tree.log"
+    },
+    "rollback": null,
+    "log": [
+        "Stripped refpkg (removed 0 files)",
+        "Loaded initial files into empty refpkg"
+    ],
+    "metadata": {
+        "create_date": "2015-01-14 09:54:02",
+        "format_version": "1.1",
+        "locus": "genome_tree_full"
+    },
+    "rollforward": null,
+    "md5": {
+        "aln_fasta": "69dada0c0070c7be4983e98ae0142e85",
+        "phylo_model": "52e65e1e2ec059fbf3279dbab138332b",
+        "tree": "f1b6e14d911cfdfea6af5f9bc0fc5dd7",
+        "tree_stats": "8f2fcb7bca5c45632285394aab329908"
+    }
+}

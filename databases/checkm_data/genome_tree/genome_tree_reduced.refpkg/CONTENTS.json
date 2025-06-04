@@ -1,0 +1,25 @@
+{
+    "files": {
+        "aln_fasta": "genome_tree.fasta", 
+        "phylo_model": "phylo_modelJqWx6_.json", 
+        "tree": "genome_tree.tre", 
+        "tree_stats": "genome_tree.log"
+    }, 
+    "rollback": null, 
+    "log": [
+        "Stripped refpkg (removed 0 files)", 
+        "Loaded initial files into empty refpkg"
+    ], 
+    "metadata": {
+        "create_date": "2015-01-16 09:52:28", 
+        "format_version": "1.1", 
+        "locus": "genome_tree_reduced"
+    }, 
+    "rollforward": null, 
+    "md5": {
+        "aln_fasta": "13fddea11e592e88d4512f33326416b2", 
+        "phylo_model": "f92f55fd96bf70fafea0b2528f94745e", 
+        "tree": "f242f0f91d1bc7e6be3850f8d08f9b6a", 
+        "tree_stats": "a3c19fb201766b805fb8117447c178e1"
+    }
+}
