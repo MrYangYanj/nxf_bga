@@ -106,7 +106,7 @@ Output/
 nextflow run main.nf --input sample1.fastq.gz
 ```
 
-2.多样本运行：
+2. 多样本运行：
 ```bash
 nextflow run main.nf --input sample1.fastq.gz,sample2.fastq.gz
 ```
