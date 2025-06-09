@@ -16,7 +16,7 @@
 
 ## 安装要求
 
-- Nextflow (>= 20.04.0)
+- Nextflow (>= 22.12.0)
 - Docker 且用户需要有docker组权限
 
 ## 使用方法
